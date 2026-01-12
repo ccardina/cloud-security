@@ -15,7 +15,6 @@ The Cisco Cloud Security development client samples, scripts, applications, Post
   * [**Management API Examples**](https://github.com/CiscoDevNet/cloud-security/tree/master/Umbrella/PostmanExamples/legacy/ManagementAPIs)
   * [**Reporting API v2 Examples**](https://github.com/CiscoDevNet/cloud-security/tree/master/Umbrella/PostmanExamples/legacy/ReportingAPIv2)
   * [**Tunnel API Examples**](https://github.com/CiscoDevNet/cloud-security/tree/master/Umbrella/PostmanExamples/legacy/TunnelAPI)
-* [**Investigate API Postman Examples**](https://github.com/CiscoDevNet/cloud-security/tree/master/Umbrella/PostmanExamples/InvestigateAPI)
 * [**Umbrella S3 -> ELK Example**](https://github.com/CiscoDevNet/cloud-security/tree/master/Umbrella/Samples/Reports/S3-ELK-Example)
 * [**Umbrella Reporting API and Umbrella Investigate API -> ELK Example**](https://github.com/CiscoDevNet/cloud-security/tree/master/Umbrella/Samples/Reports/Reporting-and-Investigate-APIs-ELK)
 * [**Umbrella SOC Tools -> NSD Recheck Script**](https://github.com/CiscoDevNet/cloud-security/tree/master/Umbrella/Samples/SOCTools/NSD_Recheck)
